@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608320195/404-DESTOP_ujvmmf.jpg)
-![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608320301/404-MOBILE_rzut8e.jpg)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608398160/myteam-DESKTOP_qc5e9w.jpg)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608398212/myteam-MOBILE_v7sknn.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
